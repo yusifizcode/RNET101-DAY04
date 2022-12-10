@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\bin\Debug\net6.0\HomeWork02-DAY04.exe
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\bin\Debug\net6.0\HomeWork02-DAY04.deps.json
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\bin\Debug\net6.0\HomeWork02-DAY04.runtimeconfig.json
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\bin\Debug\net6.0\HomeWork02-DAY04.dll
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\bin\Debug\net6.0\HomeWork02-DAY04.pdb
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\HomeWork02-DAY04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\HomeWork02-DAY04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\HomeWork02-DAY04.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\HomeWork02-DAY04.AssemblyInfo.cs
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\HomeWork02-DAY04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\HomeWork02-DAY04.dll
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\refint\HomeWork02-DAY04.dll
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\HomeWork02-DAY04.pdb
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\HomeWork02-DAY04.genruntimeconfig.cache
+C:\Users\User\Desktop\RNET101\RNET101-HomeWorks\HomeWork02-DAY04\HomeWork02-DAY04\obj\Debug\net6.0\ref\HomeWork02-DAY04.dll
